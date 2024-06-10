@@ -1,0 +1,320 @@
+Uri: http://animeslayer.dev/
+File Name: C:\Downloaded Web Sites\animeslayer.dev\index.htm
+Content Type: text/html
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc%3d/347x500/3a4CSs.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=\347x500\3a4CSs.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc%3d/original/6La8jl.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=\original\6La8jl.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc%3d/347x500/l6r6Dj.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=\347x500\l6r6Dj.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc%3d/original/erEN8I.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=\original\erEN8I.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc%3d/347x500/G7v/Jn.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=\347x500\G7v\Jn.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc%3d/original/sFASfl.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=\original\sFASfl.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc%3d/347x500/E6TbJu.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=\347x500\E6TbJu.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc%3d/original/ggtavZ.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=\original\ggtavZ.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc%3d/347x500/ZcraQk.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=\347x500\ZcraQk.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc%3d/original/mehoW5.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=\original\mehoW5.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc%3d/347x500/3W4wQw.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=\347x500\3W4wQw.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc%3d/original/sGHDjW.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=\original\sGHDjW.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1nLzE2MzU3MjIxLmpwZw%3d%3d/32x32%23/LMCWNG.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1nLzE2MzU3MjIxLmpwZw==\32x32#\LMCWNG.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1nLzE2MzU3MjY5LnBuZw%3d%3d/original/u5N7le.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1nLzE2MzU3MjY5LnBuZw==\original\u5N7le.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/img.itch.zone/aW1nLzE2MzU3MzE0LmpwZw%3d%3d/original/WIhNth.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\img.itch.zone\aW1nLzE2MzU3MzE0LmpwZw==\original\WIhNth.jpg
+Content Type: image/jpeg
+
+Uri: http://animeslayer.dev/shared.akamai.steamstatic.com/store_item_assets/steam/apps/2462620/extras/Без_имени-1ac2e.png?t=1689276826
+File Name: C:\Downloaded Web Sites\animeslayer.dev\shared.akamai.steamstatic.com\store_item_assets\steam\apps\2462620\extras\Без_имени-1ac2e.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/bundle.min1de5.js?1717095141
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\bundle.min1de5.js
+Content Type: application/javascript
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/04b03.eot
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\04b03.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/04b03.ttf
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\04b03.ttf
+Content Type: font/ttf
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/04b03.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\04b03.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/04b03.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\04b03.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/04b03d41d.eot?
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\04b03d41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Black.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Black.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Black.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Black.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Bold.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Bold.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Bold.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Bold.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Italic.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Italic.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Italic.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Italic.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Regular.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Regular.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/Lato-Regular.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\Lato-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-700.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-700.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-700.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-700.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-900.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-900.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-900.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-900.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-italic.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-italic.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-italic.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-italic.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-regular.woff
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-regular.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/fonts/lato-v14-latin-regular.woff2
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\fonts\lato-v14-latin-regular.woff2
+Content Type: font/woff2
+
+Uri: http://animeslayer.dev/static.itch.io/game.min1de5.js?1717095141
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\game.min1de5.js
+Content Type: application/javascript
+
+Uri: http://animeslayer.dev/static.itch.io/game1de5.css?1717095141
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\game1de5.css
+Content Type: text/css
+
+Uri: http://animeslayer.dev/static.itch.io/icons/fonts/icomoon053c.eot?4ibnvg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\icons\fonts\icomoon053c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://animeslayer.dev/static.itch.io/icons/fonts/icomoon053c.svg?4ibnvg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\icons\fonts\icomoon053c.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/icons/fonts/icomoon053c.ttf?4ibnvg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\icons\fonts\icomoon053c.ttf
+Content Type: font/ttf
+
+Uri: http://animeslayer.dev/static.itch.io/icons/fonts/icomoon053c.woff?4ibnvg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\icons\fonts\icomoon053c.woff
+Content Type: font/woff
+
+Uri: http://animeslayer.dev/static.itch.io/images/cc-loader.gif
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\cc-loader.gif
+Content Type: image/gif
+
+Uri: http://animeslayer.dev/static.itch.io/images/loader-dark.gif
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\loader-dark.gif
+Content Type: image/gif
+
+Uri: http://animeslayer.dev/static.itch.io/images/loader-huge.gif
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\loader-huge.gif
+Content Type: image/gif
+
+Uri: http://animeslayer.dev/static.itch.io/images/loader.gif
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\loader.gif
+Content Type: image/gif
+
+Uri: http://animeslayer.dev/static.itch.io/images/loading.svg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\loading.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/images/play_icon.svg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\play_icon.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/images/popup-tick-left.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\popup-tick-left.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/images/popup-tick-right.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\popup-tick-right.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/images/snowrepeat.svg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\snowrepeat.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/images/twitch_logo.svg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\twitch_logo.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/images/youtube_icon.svg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\images\youtube_icon.svg
+Content Type: image/svg+xml
+
+Uri: http://animeslayer.dev/static.itch.io/lib.min1de5.js?1717095141
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\lib.min1de5.js
+Content Type: application/javascript
+
+Uri: http://animeslayer.dev/static.itch.io/lib/farbtastic/marker.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\lib\farbtastic\marker.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/lib/farbtastic/mask.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\lib\farbtastic\mask.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/lib/farbtastic/wheel.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\lib\farbtastic\wheel.png
+Content Type: image/png
+
+Uri: http://animeslayer.dev/static.itch.io/lib/jquery.maskMoney.js
+File Name: C:\Downloaded Web Sites\animeslayer.dev\static.itch.io\lib\jquery.maskMoney.js
+Content Type: application/javascript
+
+Uri: https://cdn.gilcdn.com/ContentMediaGenericFiles/56c88470571757900c551a03978fa02f-Full.rar?w=1&h=1&Expires=1717301232&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uZ2lsY2RuLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzE3MzAxMjMyfX19XX0_&Signature=j-P-Jg-Zn6s~KOh6Iv~4nNlQ7M0idSni0Vr0EeVVcxVmilthFZjGOJIVFHkmR67Qg1JybBy5fsun5Y90HBVXxPhBHvvY19bkPtIrZ3rb2b80JylTfvc~89PtUwBXefljmTCLYusy4vQtcDOR67Mtzs4vZRoKYGt9F6lRMPr1YJ9R6f2H1D9oIv-sVYfaMJ-w2BhxwX5K8pS-v~hb8axsYifuWgVeGtmxORHmZF-1Jh59513oD3wJzCU~XWB4n9EP~MiGAJuoTrX2cLqaRFnF9aVKpNAPsUOKebAoWT69AOkPfS5jaWuh0S404m4E0qTq2rQr1oV3bxzc67wVw9mIwg__&Key-Pair-Id=K1FFKFZRWAZSB
+File Name: C:\Downloaded Web Sites\animeslayer.dev\ContentMediaGenericFiles\animeslayer.rar
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css?family=Anonymous Pro:400%2C400italic%2C700%2C700italic
+File Name: C:\Downloaded Web Sites\animeslayer.dev\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs74uz.ttf
+File Name: C:\Downloaded Web Sites\animeslayer.dev\s\anonymouspro\v21\rP2ap2a15UIB7Un-bOeISG3pHl4OTCzs74uz.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2Bp2a15UIB7Un-bOeISG3pHls28A.ttf
+File Name: C:\Downloaded Web Sites\animeslayer.dev\s\anonymouspro\v21\rP2Bp2a15UIB7Un-bOeISG3pHls28A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2cp2a15UIB7Un-bOeISG3pFuAT4C7c6A.ttf
+File Name: C:\Downloaded Web Sites\animeslayer.dev\s\anonymouspro\v21\rP2cp2a15UIB7Un-bOeISG3pFuAT4C7c6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/anonymouspro/v21/rP2fp2a15UIB7Un-bOeISG3pHl4G9wn8.ttf
+File Name: C:\Downloaded Web Sites\animeslayer.dev\s\anonymouspro\v21\rP2fp2a15UIB7Un-bOeISG3pHl4G9wn8.ttf
+Content Type: font/ttf
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=/347x500/3a4CSs.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=\347x500\3a4CSs.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=/794x1000/DCI3BN.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNC5qcGc=\794x1000\DCI3BN.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=/347x500/l6r6Dj.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=\347x500\l6r6Dj.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=/794x1000/oReZYG.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNi5qcGc=\794x1000\oReZYG.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=/347x500/G7v%2FJn.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=\347x500\G7vJn.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=/794x1000/LEGIMS.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNS5qcGc=\794x1000\LEGIMS.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=/347x500/E6TbJu.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=\347x500\E6TbJu.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=/794x1000/d424Y5.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxNy5qcGc=\794x1000\d424Y5.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=/347x500/ZcraQk.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=\347x500\ZcraQk.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=/794x1000/eChQ0N.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOC5qcGc=\794x1000\eChQ0N.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=/347x500/3W4wQw.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=\347x500\3W4wQw.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=/794x1000/uA1F3t.jpg
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1hZ2UvMjc0MTUxMC8xNjM1NzIxOS5qcGc=\794x1000\uA1F3t.jpg
+Content Type: image/jpeg
+
+Uri: https://img.itch.zone/aW1nLzE2MzU3NDk2LnBuZw==/original/hxq5GR.png
+File Name: C:\Downloaded Web Sites\animeslayer.dev\aW1nLzE2MzU3NDk2LnBuZw==\original\hxq5GR.png
+Content Type: image/png
+
